@@ -1,7 +1,8 @@
 
-public class WelcomeToJava {
+public class Practice1 {
 
     public static void main(String[] args) {
+
         System.out.println("Monday");
         System.out.println("Tuesday");
         System.out.println("Wednesday");
@@ -9,6 +10,5 @@ public class WelcomeToJava {
         System.out.println("Friday");
         System.out.println("Saturday");
         System.out.println("Sunday");
-
     }
 }
